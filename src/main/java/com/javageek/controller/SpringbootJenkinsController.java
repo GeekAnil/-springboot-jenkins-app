@@ -9,6 +9,6 @@ public class SpringbootJenkinsController {
     @GetMapping("/test")
     public String test()
     {
-        return "Welcome to Springboot Jenkins Integration App again!!";
+        return "Welcome to Springboot Jenkins Integration App again";
     }
 }
