@@ -12,6 +12,7 @@
 	<artifactId>springboot-jenkins-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-jenkins-app</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot and Jenkins </description>
 
 	<properties>
